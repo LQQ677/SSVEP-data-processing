@@ -631,7 +631,7 @@ function  r = cca(X,Y)  % just need r, so change the function name.
 % then M*L, Wy is N*L and r is L*1.
 %
 %
-% ?? 2000 Magnus Borga, Linköpings universitet
+% ?? 2000 Magnus Borga, LinkÃ¶pings universitet
 
 % --- Calculate covariance matrices ---
 
